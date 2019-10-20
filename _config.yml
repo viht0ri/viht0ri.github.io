@@ -1,4 +1,2 @@
-page: {
-  title: Vihtori Mäntylä
-}
+page.title: Vihtori Mäntylä
 theme: jekyll-theme-tactile
