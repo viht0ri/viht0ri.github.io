@@ -1,3 +1,5 @@
-site.title: Vihtori Mäntylä (site)
-page.title: Vihtori Mäntylä (page)
+site:
+  - title: Vihtori Mäntylä (site)
+page:
+  - title: Vihtori Mäntylä (page)
 theme: jekyll-theme-tactile
