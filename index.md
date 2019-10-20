@@ -1,5 +1,5 @@
 ---
-title: Vihtori Mäntylä
+title: "Vihtori Mäntylä"
 ---
 ## About me
 I'm a programmer from Helsinki, Finland. I work as software consultant at [Compile](https://compile.fi). Outside of work I like do some bouldering or go for a run.
